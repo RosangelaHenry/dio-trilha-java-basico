@@ -10,7 +10,7 @@ public class TiposVariaveis {
         
         short numeroCurto = 1;
         int numeroNormal = numeroCurto;
-        short numeroCurto = (short) numeroNormal;
+        short numeroCurto2 = (short) numeroNormal;
 
         int numero = 5;
 
@@ -20,7 +20,6 @@ public class TiposVariaveis {
 
         final double VALOR_DE_PI = 3.14;
 
-        VALOR_DE_PI = 10.75;
     }
 
 }
